@@ -1,1 +1,1 @@
-Projeto onde eu estou refazendo uma API REST já feita anteriormente no repositório testezssn, mas desta vez estou utilizando Clean Architecture, repositório que fará parte dos meus estudos sobre estes estudos.
+Project where I'm redoing a REST API previously made in the testezssn repository, but this time I'm using Clean Architecture, a repository that will be part of my studies on these studies.
