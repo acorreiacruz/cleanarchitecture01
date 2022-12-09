@@ -1,0 +1,1 @@
+# Projeto onde eu estou refazendo uma API REST já feita anteriormente no repositório testezssn, mas desta vez estou utilizando Clean Architecture, repositório que fará parte dos meus estudos sobre estes estudos.
