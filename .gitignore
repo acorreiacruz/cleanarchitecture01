@@ -13,3 +13,4 @@ node_modules
 jest.config.ts
 tsconfig.json
 .env
+package-lock.json
