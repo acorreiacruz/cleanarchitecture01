@@ -1,0 +1,15 @@
+# Vs Code 
+.vscode
+
+# Coverage
+coverage
+
+# Node
+node_modules
+
+# Settings Archives
+.eslintrc.js
+.prettierrc.js
+jest.config.ts
+tsconfig.json
+.env
